@@ -1,7 +1,5 @@
 
 (function(){
-<!DOCTYPE html>
-<html>
   <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
     <title>The Euro Debt Crisis</title>
@@ -165,5 +163,4 @@ d3.csv("debt.csv", function(data) {
 
     </script>
   </body>
-</html>
 })();
