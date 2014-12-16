@@ -1,5 +1,5 @@
 
-
+(function(){
 <!DOCTYPE html>
 <html>
   <head>
@@ -166,3 +166,4 @@ d3.csv("debt.csv", function(data) {
     </script>
   </body>
 </html>
+})();
